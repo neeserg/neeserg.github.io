@@ -23,9 +23,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  neeserg
 
+
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jemoji
@@ -45,3 +45,9 @@ exclude:
 header_pages:
   - about.md
   - for_her_eyes_only.md
+
+minima:
+  
+  social_links:
+    - { platform: github,         user_url: "https://github.com/neeserg" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/neeserg-parajuli-018b404a/" }
