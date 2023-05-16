@@ -1,2 +1,55 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+@import "https://fonts.googleapis.com/css?family=Delicious+Handrawn";
+$profile_width: 100px;
+$profile_height: 127px;
+$side_bar_width: $profile_width +50px;
+
+.profile_pic_wrap{
+    border-top-left-radius: 50% 50%; 
+    border-top-right-radius: 50% 50%; 
+    border-bottom-right-radius: 50% 50%; 
+    border-bottom-left-radius: 50% 50%;
+    overflow: hidden;
+    width: $profile_width;
+    height: $profile_width;
+}
+
+.profile_pic{
+    width: $profile_width;
+    height: $profile_height;
+}
+.about_header{
+    display: flex;
+    flex-direction: row;
+    height: $profile_width;
+    & > .post-title{
+        align-self: flex-end;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+}
+
+
+.about_content{
+    &> .post-content{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+}
+
+.side-bar{
+    width: $side_bar_width;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    
+}
+
+.ME{
+    font-family:'Delicious Handrawn';
+    padding-left: 30px;
+    &>p{
+        margin-bottom: 0px;
+    }
+}

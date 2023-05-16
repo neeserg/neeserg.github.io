@@ -3,12 +3,33 @@ layout: base
 ---
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">Neeserg Parajuli</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+  
+  <div class="about_container">
+    
+    <div class="side-bar">
+      <div class="profile_pic_wrap">
+        <img src="/assets/{{ page.profile_pic | escape }}" class="profile_pic">
+      </div>
+      <object data="/assets/arrow.svg" type="image/svg+xml"></object>
+      <div class="ME"><p >Neeserg Parajuli</p><p> AKA (ME!)</p></div>
+    </div>
+    
+    <div class="about_content">
+        <div class="about_header">
+          <header class="post-header"></header>
+            <h1 class="post-title">About</h1>
+          </header>
+        </div>
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </div>
+  
   </div>
+  
+  <style>
+
+  </style>
+  
 
 </article>

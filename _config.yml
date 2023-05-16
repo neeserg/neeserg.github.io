@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Weird Corner Of Net
+title: The Un-bored Coder.
 email: neesergparajuli@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog where a coder explores the topic he's interested in and shares 
+  it with people that may find it intereseting. Mostly about coding, maths, physics
+  but occasionally about other things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  neeserg
@@ -47,7 +47,7 @@ header_pages:
   - for_her_eyes_only.md
 
 minima:
-  
   social_links:
     - { platform: github,         user_url: "https://github.com/neeserg" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/neeserg-parajuli-018b404a/" }
+  skin: solarized-light
