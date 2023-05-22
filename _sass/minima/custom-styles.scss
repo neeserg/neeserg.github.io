@@ -20,11 +20,16 @@ $side_bar_width: $profile_width +50px;
     height: $profile_height;
 }
 .about_header{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: row;
-    height: $profile_width;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
     & > .post-title{
         align-self: flex-end;
+        -ms-flex-item-align: end;
         margin-bottom: 0px;
         margin-left: 10px;
     }
@@ -40,7 +45,12 @@ $side_bar_width: $profile_width +50px;
 
 .side-bar{
     width: $side_bar_width;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
     flex-direction: column;
     float: left;
     
