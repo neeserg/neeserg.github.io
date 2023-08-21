@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Mandelbrot Set in Rust"
 date:   2023-05-23 00:22:04 +1000
-categories: Brainstorms
+categories: Visual Maths
 usemathjax: true
 
 ---
