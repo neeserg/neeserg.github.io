@@ -4,3 +4,4 @@ _site
 vendor
 .random_experiments
 .DS_STORE
+.blog
