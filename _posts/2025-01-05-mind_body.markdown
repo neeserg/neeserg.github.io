@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Free Will"
+date:   2025-01-07 06:00:04 +1000
+categories: Self Improvement
+usemathjax: false
+
+---
+
+I read the book Behaviour, by Robert Sapolsky. In my opinion the greatest popular science book ever constructed. The amount of coverage it has is astounding. The primary thesis of this book is that an explaination of a behaviour cannot be attributed entirely to neuroscience, genetics, culture or other level of analysis. He attributes a time scale in which these level of analysis operate. Neurons operate at microseconds, genetics is in the evolutionary time scal and culture changes in time scale humans are familiar with. While I absolutely loved this book and truly admire its scale and thoroughness, a book like this does leave me kinda lost. This is a question  of free will. Are we the pawns on chessboard or are we the players?
+
+I haven't read his book Determined yet, but I assume he begins his direct attack on free will rather than his indirect one. I was about write about the concept of the body/unconcious influencing the concious mind and how we often try to **will** ourselves to doing things fighting against our unconcious. How this type of thinking is all backwards, and often its your body **willing** your mind into doing things. But when I was going to make actionable suggestions I had to include several decisions one would make to improve their unconcious self. I had to include **free will**. 
+
+This is what erks me with free will deniers. Apart from our concious experience, free will is the most axiomatic thing about the human experience. Any thing we do, any insight science provides us, anytime we go to the shopping mall, we cannot avoid using it. Many people worry that if free will did not exist then moral responsibility will not exist. I do not care about that. Infact I agree with the likes of Robert Sapolsky, if we investigate what determines people's worst behaviour, then we can structure society in a way that allows them to behave with according to their best virtue. I like the idea of rehabilitation over retribution in our society. But then again the politician would invariably use free will put laws in place to go towards this rehabilitation centric society. 
+
+Ultimately viewing free will as an illusion leads to a non-participitory mindset, because what was meant to happen will happen. As natural observer who doesn't want to participate in life, viewing free will as a illusion does not help in any way. I will explore some arguements that stand up for free will.
+
+
+### Deniers Arguements
+
+The basic arguements are as old as time. Infact exactly as old as time. They say universe has a certain deterministic laws with certain initial condition and it has been going as clockwork for eternity. Now if the universe behaves like this then how could I have chosen type up this blog post. This is still the main arguement. But now with modern neuroscience they have been able to predict peoples decision before they make it. This is the arguement more or less, if your decsions can be predicted deterministically how are you free. They say you are not, I was gonna write this blog, I didn't chose anything. 
+
+### Compatabilism
+
+I really have a hard time understanding this one. But the gist is that they say free will is compatible with the determinism. How can it be compatible. Well the way I understand is that they define free will in a way that is compatible. Suppose we have an experiment, you are given two candies, candy A and candy B. You like candy A slightly better and you chose it. Once you make the choice you are put to sleep and you are given a amnesia pill. If you make the same decision everytime does it make your choice less free? Now what if all the particles in the room, including your own head were rearranged to the spot before they were before the experiment, you make the same decision everytime then you can still consider yourself free. So what is free in this case. 
+
+You can make decisions that statistically independent to your surroundings. Kinda like superdeterminism vs determinism.
+
+
+### Libertarianism
+
+How can this exist? 
+
+God makes it happen according to your choice.
+
+Can randomness be the answer? Needs to be statistically independent from outside and somewhat determenistic from inside.
+
