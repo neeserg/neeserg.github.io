@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Free Will"
+date:   2025-02-02 06:00:04 +4
+categories: Philosophy
+usemathjax: false
+
+---
+
+I have always been very fascinated by the topic of free will. Does it exist? Do I have control over my actions? Could I have done otherwise? Is there some metaphysical will that drives us? I don't know. One thing I know for sure is that even if someone claims that free will is an illusion and says they do not honestly believe in it, they cannot live a day without experiencing it. Whether free will is real or not, free will, like consciousness, is an inescapable part of our lives.
+
+The topic of free will has entered my brain because of this recent focus on discipline and lifestyle change. It has reinvigorated my fascination with willpower. What even is willpower? Is it some metaphysical thing that allows us to exert control over our environment, or is it some biological phenomenon? The other thing that really got me curious was my experience during meditation. I often try my hardest to focus on my breathing with a clear mind, but I eventually get lost in some thought. It got me questioning whether I was ever in control over my thoughts. I was willing for my brain to focus on the breath, but my brain then seamlessly chose to think about what to have for dinner. In this thought, I would still engage as a free agent, deliberate on what to have for dinner, and freely choose a particular dish. But then I would tell myself to go back to the breath, and I would go back to focusing on my breath. Was I acting freely when deliberating on what to have for dinner? Or was I acting freely when I was making myself concentrate back on my breath? 
+
+Is my illusion waning? I still think I can act freely; I can choose to eat healthy, go to the gym or write this blog. I believe that I was acting freely when I brought my attention back to my breath and not quite acting freely when distracted by my thoughts. This is how I experience my thoughts. The thought about the dinner did not have a cause that could be traced back to me, but somehow, the part where I focus back on my breath could be traced back to me. This is an experiential account of free will, and for some, it is enough to go on living their life. But for me, it is a difference between being an active participant in life or a passive observer. So, I will go through the philosophy of free will and give my opinion.
+
+
+## Philosophy of Free Will
+
+But before I can go any further, I gotta define a few terms.
+
+- Free Will: The ability to do otherwise. For example, if you are given a cake, you have the ability to eat the cake but also the ability to not eat the cake.
+
+Determinism: All events in the world have a cause, and in turn, those events have a cause. There is a causal chain for all events in the universe. There is no uncaused cause, and everything behaves according to the laws of physics and is unable to do otherwise. 
+
+Non-Uniqueness: We also behave according to the laws of physics, and there isn't anything special about us. No experiment has found the soul or evidence that our brain is an exception to these laws.
+
+The main problem with free will is that these three things seem completely incompatible. If everything behaves according to the laws of physics and nothing is able to do otherwise, then we can't do otherwise as well. We will behave according to the laws of physics and have no free will. Well, this is the position taken up by **hard determinists**. They think that free will doesn't exist. There are few positions for free will.
+
+- Soul: We are unique creatures. We have souls or some unique special causal force that allows us to enact our free will. We are not constrained by the laws of physics. The apparent counter to this position is that we have never been able to prove any evidence of this uniqueness. Challenging position to justify.
+
+- Compatibilists: This is by far the most interesting position but also the most confusing one. It seems to be all about redefining free will in a way that is intuitive to our understanding of free will without getting rid of determinism or non-uniqueness. I tend to think this is mostly playing games with words, and I think the original definition is good enough.  
+
+- Non-Determinists: I tend to agree with this opinion. I don't think the universe is pre-determined, and I think there are enough questions in modern physics to call this into question. I think non-determinism doesn't necessarily mean randomness, even though it could look random. 
+
+
+
+## Conclusions
+
+This topic was a hard one to do in one article. I want to release multiple parts that will illuminate the topic of free will. I believe determinism is not really true. According to quantum mechanics, the universe is somewhat non-deterministic, or you have to invoke non-determinism to get any measurable outcome. Most people also think free will doesn't exist because of cause and effect; however, without the ability to do otherwise, we couldn't know anything about cause and effect. I think compatibilism provides excellent insight into this topic, but a redefinition doesn't solve the fundamental problem. In the following article, I will discuss determinism and how modern physics indicates a non-deterministic universe.
